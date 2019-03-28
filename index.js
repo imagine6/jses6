@@ -21,3 +21,9 @@ console.log(months);
 
 const wahrheit = true;
 const liege = false;
+
+switch (wahrheit) {
+  case true: console.log('yes'); break;
+  case false: console.log('yes'); break;
+  default: break;
+}
