@@ -27,3 +27,4 @@ switch (wahrheit) {
   case false: console.log('yes'); break;
   default: break;
 }
+// Deploy a website
